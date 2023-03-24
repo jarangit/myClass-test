@@ -3,5 +3,4 @@ const Box = () => {
         <div>my box</div>
     )
 }
-
 export default Box
